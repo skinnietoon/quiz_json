@@ -1,0 +1,750 @@
+{
+  "categories": [
+    {
+      "name": "General Knowledge",
+      "quizItems": [
+        {
+          "category": "General Knowledge",
+          "question": "What is the capital of the United States?",
+          "options": ["New York", "Washington, D.C.", "Los Angeles", "Chicago"],
+          "correctAnswer": "Washington, D.C."
+        },
+        {
+          "category": "General Knowledge",
+          "question": "What is the largest planet in our solar system?",
+          "options": ["Earth", "Mars", "Jupiter", "Venus"],
+          "correctAnswer": "Jupiter"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "How many continents are there on Earth?",
+          "options": ["4", "6", "7", "5"],
+          "correctAnswer": "7"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "What is the largest mammal on Earth?",
+          "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+          "correctAnswer": "Blue Whale"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "How many legs does a spider have?",
+          "options": ["6", "8", "10", "12"],
+          "correctAnswer": "8"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "Which season comes after summer?",
+          "options": ["Winter", "Spring", "Autumn", "Monsoon"],
+          "correctAnswer": "Autumn"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "What is the currency of Japan?",
+          "options": ["Yen", "Won", "Ringgit", "Baht"],
+          "correctAnswer": "Yen"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "Who painted the Mona Lisa?",
+          "options": [
+            "Leonardo da Vinci",
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Claude Monet"
+          ],
+          "correctAnswer": "Leonardo da Vinci"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "What is the largest ocean in the world?",
+          "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Southern Ocean",
+            "Pacific Ocean"
+          ],
+          "correctAnswer": "Pacific Ocean"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "What is the capital of Australia?",
+          "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+          "correctAnswer": "Canberra"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "Which planet is known as the 'Red Planet'?",
+          "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+          "correctAnswer": "Mars"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "What is the largest bird in the world?",
+          "options": ["Eagle", "Ostrich", "Penguin", "Flamingo"],
+          "correctAnswer": "Ostrich"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "In which country is the Great Wall of China located?",
+          "options": ["Japan", "China", "India", "Russia"],
+          "correctAnswer": "China"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "What is the smallest prime number?",
+          "options": ["1", "2", "3", "4"],
+          "correctAnswer": "2"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "Who is known as the 'Father of Computers'?",
+          "options": [
+            "Bill Gates",
+            "Charles Babbage",
+            "Steve Jobs",
+            "Mark Zuckerberg"
+          ],
+          "correctAnswer": "Charles Babbage"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "What is the largest flower in the world?",
+          "options": ["Sunflower", "Rose", "Orchid", "Rafflesia"],
+          "correctAnswer": "Rafflesia"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "Which animal is the symbol of peace?",
+          "options": ["Dove", "Eagle", "Lion", "Tiger"],
+          "correctAnswer": "Dove"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "How many colors are there in a rainbow?",
+          "options": ["5", "6", "7", "8"],
+          "correctAnswer": "7"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "What is the capital of Brazil?",
+          "options": ["Rio de Janeiro", "Sao Paulo", "Brasilia", "Salvador"],
+          "correctAnswer": "Brasilia"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "Which famous scientist developed the theory of relativity?",
+          "options": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Albert Einstein",
+            "Stephen Hawking"
+          ],
+          "correctAnswer": "Albert Einstein"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "What is the largest reptile in the world?",
+          "options": ["Cobra", "Iguana", "Komodo Dragon", "Crocodile"],
+          "correctAnswer": "Crocodile"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "Which continent is known as the 'Dark Continent'?",
+          "options": ["Asia", "Africa", "South America", "North America"],
+          "correctAnswer": "Africa"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "What is the largest island in the world?",
+          "options": ["Greenland", "Australia", "Borneo", "Madagascar"],
+          "correctAnswer": "Greenland"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "Who wrote 'Romeo and Juliet'?",
+          "options": [
+            "Charles Dickens",
+            "William Shakespeare",
+            "Jane Austen",
+            "Mark Twain"
+          ],
+          "correctAnswer": "William Shakespeare"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "What is the largest ocean animal?",
+          "options": [
+            "Blue Whale",
+            "Giant Squid",
+            "Great White Shark",
+            "Killer Whale"
+          ],
+          "correctAnswer": "Blue Whale"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "What is the smallest country in the world?",
+          "options": ["Vatican City", "Monaco", "Nauru", "San Marino"],
+          "correctAnswer": "Vatican City"
+        },
+        {
+          "category": "General Knowledge",
+          "question": "Which planet is known as the 'Morning Star'?",
+          "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+          "correctAnswer": "Venus"
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "quizItems": [
+        {
+          "category": "Geography",
+          "question": "What is the capital of the United States?",
+          "options": ["New York", "Washington, D.C.", "Los Angeles", "Chicago"],
+          "correctAnswer": "Washington, D.C."
+        },
+        {
+          "category": "Geography",
+          "question": "Which continent is known as the 'Land of the Rising Sun'?",
+          "options": ["Asia", "Europe", "North America", "Australia"],
+          "correctAnswer": "Asia"
+        },
+        {
+          "category": "Geography",
+          "question": "What is the largest ocean in the world?",
+          "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Southern Ocean",
+            "Pacific Ocean"
+          ],
+          "correctAnswer": "Pacific Ocean"
+        },
+        {
+          "category": "Geography",
+          "question": "Which country is known as the 'Land of Pyramids'?",
+          "options": ["Greece", "Egypt", "Mexico", "China"],
+          "correctAnswer": "Egypt"
+        },
+        {
+          "category": "Geography",
+          "question": "In which direction does the sun rise?",
+          "options": ["East", "West", "North", "South"],
+          "correctAnswer": "East"
+        },
+        {
+          "category": "Geography",
+          "question": "What is the capital of Japan?",
+          "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+          "correctAnswer": "Tokyo"
+        },
+        {
+          "category": "Geography",
+          "question": "Which continent is known as the 'Land Down Under'?",
+          "options": ["South America", "Africa", "Australia", "Antarctica"],
+          "correctAnswer": "Australia"
+        },
+        {
+          "category": "Geography",
+          "question": "What is the largest country in the world by land area?",
+          "options": ["United States", "Russia", "China", "Canada"],
+          "correctAnswer": "Russia"
+        },
+        {
+          "category": "Geography",
+          "question": "Which river is the longest in the world?",
+          "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+          "correctAnswer": "Amazon"
+        },
+        {
+          "category": "Geography",
+          "question": "Which desert is the largest in the world?",
+          "options": [
+            "Sahara Desert",
+            "Gobi Desert",
+            "Arabian Desert",
+            "Antarctic Desert"
+          ],
+          "correctAnswer": "Sahara Desert"
+        },
+        {
+          "category": "Geography",
+          "question": "Which country is known as the 'Land of the Rising Sun'?",
+          "options": ["Japan", "China", "South Korea", "Thailand"],
+          "correctAnswer": "Japan"
+        },
+        {
+          "category": "Geography",
+          "question": "What is the capital of Australia?",
+          "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+          "correctAnswer": "Canberra"
+        },
+        {
+          "category": "Geography",
+          "question": "Which mountain is the highest in the world?",
+          "options": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+          "correctAnswer": "Mount Everest"
+        },
+        {
+          "category": "Geography",
+          "question": "In which continent is the Amazon Rainforest located?",
+          "options": ["South America", "Africa", "Asia", "North America"],
+          "correctAnswer": "South America"
+        },
+        {
+          "category": "Geography",
+          "question": "What is the capital of Canada?",
+          "options": ["Toronto", "Montreal", "Vancouver", "Ottawa"],
+          "correctAnswer": "Ottawa"
+        },
+        {
+          "category": "Geography",
+          "question": "Which ocean is to the east of Africa?",
+          "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Southern Ocean",
+            "Pacific Ocean"
+          ],
+          "correctAnswer": "Indian Ocean"
+        },
+        {
+          "category": "Geography",
+          "question": "What is the equator?",
+          "options": [
+            "A line of longitude",
+            "A line of latitude",
+            "A mountain range",
+            "A river"
+          ],
+          "correctAnswer": "A line of latitude"
+        },
+        {
+          "category": "Geography",
+          "question": "Which country is known as the 'Land of Fire and Ice'?",
+          "options": ["Iceland", "Greenland", "Norway", "Finland"],
+          "correctAnswer": "Iceland"
+        },
+        {
+          "category": "Geography",
+          "question": "What is the smallest continent in the world?",
+          "options": ["Asia", "Europe", "Australia", "Antarctica"],
+          "correctAnswer": "Australia"
+        },
+        {
+          "category": "Geography",
+          "question": "Which country is famous for the Great Barrier Reef?",
+          "options": ["Australia", "Philippines", "Thailand", "Maldives"],
+          "correctAnswer": "Australia"
+        },
+        {
+          "category": "Geography",
+          "question": "What is the largest island in the world?",
+          "options": ["Greenland", "Australia", "Borneo", "Madagascar"],
+          "correctAnswer": "Greenland"
+        },
+        {
+          "category": "Geography",
+          "question": "In which country is the Eiffel Tower located?",
+          "options": ["Italy", "France", "Germany", "Spain"],
+          "correctAnswer": "France"
+        },
+        {
+          "category": "Geography",
+          "question": "Which river flows through the Grand Canyon?",
+          "options": [
+            "Mississippi River",
+            "Colorado River",
+            "Amazon River",
+            "Nile River"
+          ],
+          "correctAnswer": "Colorado River"
+        },
+        {
+          "category": "Geography",
+          "question": "What is the capital of China?",
+          "options": ["Shanghai", "Beijing", "Guangzhou", "Hong Kong"],
+          "correctAnswer": "Beijing"
+        },
+        {
+          "category": "Geography",
+          "question": "In which country is the Taj Mahal located?",
+          "options": ["India", "Pakistan", "Bangladesh", "Nepal"],
+          "correctAnswer": "India"
+        },
+        {
+          "category": "Geography",
+          "question": "What is the largest lake in Africa?",
+          "options": [
+            "Lake Victoria",
+            "Lake Tanganyika",
+            "Lake Malawi",
+            "Lake Chad"
+          ],
+          "correctAnswer": "Lake Victoria"
+        },
+        {
+          "category": "Geography",
+          "question": "Which continent is known as the 'Land of Ice'?",
+          "options": ["Antarctica", "Europe", "North America", "Asia"],
+          "correctAnswer": "Antarctica"
+        }
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "quizItems": [
+        {
+          "category": "Mathematics",
+          "question": "What is the result of 5 + 3?",
+          "options": ["7", "8", "9", "10"],
+          "correctAnswer": "8"
+        },
+        {
+          "category": "Mathematics",
+          "question": "If you have 2 apples and you eat 1, how many apples do you have left?",
+          "options": ["0", "1", "2", "3"],
+          "correctAnswer": "1"
+        },
+        {
+          "category": "Mathematics",
+          "question": "What is the product of 3 multiplied by 4?",
+          "options": ["6", "9", "12", "7"],
+          "correctAnswer": "12"
+        },
+        {
+          "category": "Mathematics",
+          "question": "If you have 8 fingers on both hands, how many fingers do you have in total?",
+          "options": ["8", "10", "12", "16"],
+          "correctAnswer": "10"
+        },
+        {
+          "category": "Mathematics",
+          "question": "What comes after 49 in counting?",
+          "options": ["50", "48", "51", "47"],
+          "correctAnswer": "50"
+        },
+        {
+          "category": "Mathematics",
+          "question": "If you have 6 cookies and you share them equally among 2 friends, how many cookies does each friend get?",
+          "options": ["2", "3", "4", "5"],
+          "correctAnswer": "3"
+        },
+        {
+          "category": "Mathematics",
+          "question": "What is the difference between 10 and 5?",
+          "options": ["2", "3", "4", "5"],
+          "correctAnswer": "5"
+        },
+        {
+          "category": "Mathematics",
+          "question": "How many sides does a square have?",
+          "options": ["3", "4", "5", "6"],
+          "correctAnswer": "4"
+        },
+        {
+          "category": "Mathematics",
+          "question": "What is the sum of 7 and 2?",
+          "options": ["8", "9", "10", "11"],
+          "correctAnswer": "9"
+        },
+        {
+          "category": "Mathematics",
+          "question": "If you have 3 teddy bears and you buy 2 more, how many teddy bears do you have in total?",
+          "options": ["3", "4", "5", "6"],
+          "correctAnswer": "5"
+        },
+        {
+          "category": "Mathematics",
+          "question": "How many fingers are there on one hand?",
+          "options": ["3", "4", "5", "6"],
+          "correctAnswer": "5"
+        },
+        {
+          "category": "Mathematics",
+          "question": "If you have 10 candies and you eat 3, how many candies do you have left?",
+          "options": ["4", "6", "7", "8"],
+          "correctAnswer": "7"
+        },
+        {
+          "category": "Mathematics",
+          "question": "What is the double of 6?",
+          "options": ["8", "10", "12", "14"],
+          "correctAnswer": "12"
+        },
+        {
+          "category": "Mathematics",
+          "question": "If you have 4 pencils and you give 1 to your friend, how many pencils do you have now?",
+          "options": ["1", "2", "3", "4"],
+          "correctAnswer": "3"
+        },
+        {
+          "category": "Mathematics",
+          "question": "What is the value of 5 squared?",
+          "options": ["20", "25", "30", "35"],
+          "correctAnswer": "25"
+        },
+        {
+          "category": "Mathematics",
+          "question": "If you have 2 coins, one is a quarter and the other is a dime, how much money do you have in total?",
+          "options": ["25 cents", "30 cents", "35 cents", "20 cents"],
+          "correctAnswer": "35 cents"
+        },
+        {
+          "category": "Mathematics",
+          "question": "What is the next number in the sequence: 2, 4, 6, 8, __?",
+          "options": ["9", "10", "11", "12"],
+          "correctAnswer": "10"
+        },
+        {
+          "category": "Mathematics",
+          "question": "If you have 15 toys and you arrange them in 3 rows, how many toys are in each row?",
+          "options": ["3", "4", "5", "6"],
+          "correctAnswer": "5"
+        },
+        {
+          "category": "Mathematics",
+          "question": "What is the result of 9 - 3?",
+          "options": ["4", "6", "9", "12"],
+          "correctAnswer": "6"
+        },
+        {
+          "category": "Mathematics",
+          "question": "If you have 7 apples and you give 2 to your friend, how many apples do you have left?",
+          "options": ["2", "3", "4", "5"],
+          "correctAnswer": "5"
+        },
+        {
+          "category": "Mathematics",
+          "question": "How many sides does a triangle have?",
+          "options": ["3", "4", "5", "6"],
+          "correctAnswer": "3"
+        },
+        {
+          "category": "Mathematics",
+          "question": "What is the sum of 6 and 4?",
+          "options": ["8", "9", "10", "11"],
+          "correctAnswer": "10"
+        },
+        {
+          "category": "Mathematics",
+          "question": "If you have 8 crayons and you break 2 in half, how many pieces of crayon do you have?",
+          "options": ["8", "10", "12", "14"],
+          "correctAnswer": "12"
+        },
+        {
+          "category": "Mathematics",
+          "question": "What is the next even number after 12?",
+          "options": ["14", "15", "16", "17"],
+          "correctAnswer": "14"
+        },
+        {
+          "category": "Mathematics",
+          "question": "If you have 20 fingers on both hands, how many fingers do you have in total?",
+          "options": ["18", "20", "22", "24"],
+          "correctAnswer": "20"
+        },
+        {
+          "category": "Mathematics",
+          "question": "What is the result of 4 times 3 plus 2?",
+          "options": ["10", "14", "18", "22"],
+          "correctAnswer": "14"
+        },
+        {
+          "category": "Mathematics",
+          "question": "If you have 5 balloons and you give 1 to each of your 3 friends, how many balloons do you have left?",
+          "options": ["0", "1", "2", "3"],
+          "correctAnswer": "2"
+        },
+        {
+          "category": "Mathematics",
+          "question": "How many sides does a rectangle have?",
+          "options": ["3", "4", "5", "6"],
+          "correctAnswer": "4"
+        }
+      ]
+    },
+    {
+      "name": "Language",
+      "quizItems": [
+        {
+          "category": "Language",
+          "question": "What is the opposite of 'happy'?",
+          "options": ["Sad", "Angry", "Excited", "Tired"],
+          "correctAnswer": "Sad"
+        },
+        {
+          "category": "Language",
+          "question": "Which word rhymes with 'cat'?",
+          "options": ["Dog", "Hat", "Sun", "Tree"],
+          "correctAnswer": "Hat"
+        },
+        {
+          "category": "Language",
+          "question": "What is the plural form of 'child'?",
+          "options": ["Children", "Childs", "Childes", "Childs"],
+          "correctAnswer": "Children"
+        },
+        {
+          "category": "Language",
+          "question": "What is the past tense of 'run'?",
+          "options": ["Running", "Ran", "Runs", "Runned"],
+          "correctAnswer": "Ran"
+        },
+        {
+          "category": "Language",
+          "question": "Which letter is a vowel: 'B' or 'E'?",
+          "options": ["B", "E", "Both", "Neither"],
+          "correctAnswer": "E"
+        },
+        {
+          "category": "Language",
+          "question": "What is the synonym for 'happy'?",
+          "options": ["Sad", "Angry", "Excited", "Joyful"],
+          "correctAnswer": "Joyful"
+        },
+        {
+          "category": "Language",
+          "question": "How many syllables are in the word 'elephant'?",
+          "options": ["1", "2", "3", "4"],
+          "correctAnswer": "3"
+        },
+        {
+          "category": "Language",
+          "question": "Which word does not belong: 'apple', 'banana', 'carrot', 'elephant'?",
+          "options": ["Apple", "Banana", "Carrot", "Elephant"],
+          "correctAnswer": "Elephant"
+        },
+        {
+          "category": "Language",
+          "question": "What is the opposite of 'big'?",
+          "options": ["Small", "Large", "Huge", "Tiny"],
+          "correctAnswer": "Small"
+        },
+        {
+          "category": "Language",
+          "question": "Which word is a verb: 'jump' or 'blue'?",
+          "options": ["Jump", "Blue", "Both", "Neither"],
+          "correctAnswer": "Jump"
+        },
+        {
+          "category": "Language",
+          "question": "What is the plural form of 'mouse'?",
+          "options": ["Mouses", "Mice", "Mousen", "Mouse"],
+          "correctAnswer": "Mice"
+        },
+        {
+          "category": "Language",
+          "question": "Which letter comes first in the alphabet: 'D' or 'M'?",
+          "options": ["D", "M", "Both", "Neither"],
+          "correctAnswer": "D"
+        },
+        {
+          "category": "Language",
+          "question": "What is the present participle of 'eat'?",
+          "options": ["Eats", "Ate", "Eating", "Eaten"],
+          "correctAnswer": "Eating"
+        },
+        {
+          "category": "Language",
+          "question": "What is the synonym for 'sad'?",
+          "options": ["Happy", "Angry", "Excited", "Melancholy"],
+          "correctAnswer": "Melancholy"
+        },
+        {
+          "category": "Language",
+          "question": "How many letters are in the word 'school'?",
+          "options": ["4", "5", "6", "7"],
+          "correctAnswer": "6"
+        },
+        {
+          "category": "Language",
+          "question": "Which word is a conjunction: 'and' or 'book'?",
+          "options": ["And", "Book", "Both", "Neither"],
+          "correctAnswer": "And"
+        },
+        {
+          "category": "Language",
+          "question": "What is the plural form of 'fox'?",
+          "options": ["Foxes", "Foxs", "Foxen", "Fox"],
+          "correctAnswer": "Foxes"
+        },
+        {
+          "category": "Language",
+          "question": "Which word does not rhyme with the others: 'pen', 'hen', 'ten', 'man'?",
+          "options": ["Pen", "Hen", "Ten", "Man"],
+          "correctAnswer": "Man"
+        },
+        {
+          "category": "Language",
+          "question": "What is the opposite of 'fast'?",
+          "options": ["Slow", "Quick", "Rapid", "Speedy"],
+          "correctAnswer": "Slow"
+        },
+        {
+          "category": "Language",
+          "question": "Which word has a silent 'k': 'knight' or 'night'?",
+          "options": ["Knight", "Night", "Both", "Neither"],
+          "correctAnswer": "Knight"
+        },
+        {
+          "category": "Language",
+          "question": "What is the plural form of 'cherry'?",
+          "options": ["Cherries", "Cherrys", "Cherryen", "Cherry"],
+          "correctAnswer": "Cherries"
+        },
+        {
+          "category": "Language",
+          "question": "What is the past tense of 'sing'?",
+          "options": ["Sing", "Singing", "Sang", "Song"],
+          "correctAnswer": "Sang"
+        },
+        {
+          "category": "Language",
+          "question": "Which word has a long vowel sound: 'hop' or 'hope'?",
+          "options": ["Hop", "Hope", "Both", "Neither"],
+          "correctAnswer": "Hope"
+        },
+        {
+          "category": "Language",
+          "question": "What is the synonym for 'angry'?",
+          "options": ["Happy", "Sad", "Excited", "Furious"],
+          "correctAnswer": "Furious"
+        },
+        {
+          "category": "Language",
+          "question": "How many consonants are there in the word 'elephant'?",
+          "options": ["3", "4", "5", "6"],
+          "correctAnswer": "5"
+        },
+        {
+          "category": "Language",
+          "question": "What is the present tense of 'write'?",
+          "options": ["Wrote", "Writing", "Written", "Writed"],
+          "correctAnswer": "Writing"
+        },
+        {
+          "category": "Language",
+          "question": "Which word is an adverb: 'quickly' or 'apple'?",
+          "options": ["Quickly", "Apple", "Both", "Neither"],
+          "correctAnswer": "Quickly"
+        },
+        {
+          "category": "Language",
+          "question": "What is the opposite of 'loud'?",
+          "options": ["Quiet", "Noisy", "Soft", "Silent"],
+          "correctAnswer": "Quiet"
+        },
+        {
+          "category": "Language",
+          "question": "What is the plural form of 'toy'?",
+          "options": ["Toys", "Toyes", "Toyen", "Toy"],
+          "correctAnswer": "Toys"
+        }
+      ]
+    }
+  ]
+}
